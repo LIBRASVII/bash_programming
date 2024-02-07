@@ -1,0 +1,2 @@
+Hello my friend!!!!
+TEST BASH READ FILE
